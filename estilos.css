@@ -1,0 +1,15 @@
+.row > div{
+    padding: 5px;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    
+    
+}
+
+.container{
+    border:1px solid black;
+    background: lightslategray;
+}
